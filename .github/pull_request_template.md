@@ -1,5 +1,7 @@
 I hereby agree to the terms of the [Singularity Data, Inc. Contributor License Agreement](https://gist.github.com/skyzh/0663682a70b0edde7ae991492f2314cb#file-s9y_cla).
 
+Highest Release Version: 
+
 ## What's changed and what's your intention?
 
 ***PLEASE DO NOT LEAVE THIS EMPTY !!!***
